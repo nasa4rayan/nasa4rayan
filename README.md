@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Rayan
 
-<!--
-**nasa4rayan/nasa4rayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer, Linux user and web enthusiast.
 
-Here are some ideas to get you started:
+- 🐍 I work mainly with **Python**
+- 🐧 Linux is my daily operating system
+- 🌐 I build simple websites using **HTML & CSS**
+- 📚 Currently learning by building small projects
+- ⚡ Interested in automation, scripting and open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasa4rayan&show_icons=true&theme=dark)
+
+---
+
+### 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasa4rayan&layout=compact&theme=dark)
+
+---
+
+⭐ Learning every day. Building step by step.

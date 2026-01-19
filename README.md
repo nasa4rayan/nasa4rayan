@@ -7,7 +7,6 @@ Python developer, Linux user and web enthusiast.
 - 🌐 I build simple websites using **HTML, CSS & JavaScript**
 - ⚙️ I write scripts using **PowerShell & Bash**
 - 📚 Learning by building small projects
-- ⚡ Interested in automation and open source
 
 ---
 

@@ -25,4 +25,4 @@ Python developer, Linux user and web enthusiast.
 
 ---
 
- Learning every day. Building step by step;
+ Learning every day. Building step by step ;

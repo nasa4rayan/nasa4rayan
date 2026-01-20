@@ -2,11 +2,10 @@
 
 Python developer, Linux user and web enthusiast.
 
-- 🐍 I work mainly with **Python**
-- 🐧 Linux is my daily operating system
-- 🌐 I build simple websites using **HTML, CSS & JavaScript**
-- ⚙️ I write scripts using **PowerShell & Bash**
-- 📚 Learning by building small projects
+- I work mainly with **Python**
+- Linux is my daily operating system
+- I build simple websites using **HTML, CSS & JavaScript**
+- Learning by building small projects
 
 ---
 
@@ -26,4 +25,4 @@ Python developer, Linux user and web enthusiast.
 
 ---
 
-⭐ Learning every day. Building step by step.
+ Learning every day. Building step by step;

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rayan
 
-Python developer, Linux user and web enthusiast.
+Python developer, I use Arch ,btw ;).
 
 - I work mainly with **Python**
 - Linux is my daily operating system

@@ -26,4 +26,4 @@ Python developer, I use Arch ,btw ;).
 ---
 
  Learning every day. Building step by step ;
-https://webpets-flame.vercel.app/generated/fox/red_run_8fps.gif
+![Demo](https://webpets-flame.vercel.app/generated/fox/red_run_8fps.gif)
